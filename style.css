@@ -1,0 +1,13 @@
+body {
+font: normal 16px/1.5 sans-serif;
+}
+
+header {
+text-align: center;
+}
+
+form {
+width: 50%;
+text-align: center;
+margin: 20px auto;
+}
