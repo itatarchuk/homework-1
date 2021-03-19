@@ -1,5 +1,7 @@
 body {
+background: #AACEE6;
 font: normal 16px/1.5 sans-serif;
+color: #485761;
 }
 
 header {
@@ -10,4 +12,45 @@ form {
 width: 50%;
 text-align: center;
 margin: 20px auto;
+}
+
+fieldset {
+border: 2px solid #485761;
+border-radius: 20px;
+background: white;
+}
+
+legend {
+font-weight: bolid;
+font-size: 120%;
+background-color: rgba(255,255,255,.7);
+padding: 0 10px;
+border-radius: 5px;
+}
+
+a:link {
+color: #2B4B61;
+}
+
+a:visited {
+color: #485761;
+}
+
+label {
+display: inline-block;
+width: 120px;
+text-align: right;
+padding-right: 10px;
+}
+
+input {
+width: 165px;
+}
+
+div{
+margin-bottom: 10px;
+}
+
+.login {
+width: 80px;
 }
